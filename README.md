@@ -1,0 +1,41 @@
+# MYTH & ROID – Endless Embrace
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.15] I still remember you
+[00:06.06] The time we shared, the love you gave
+[00:11.07] Though everything has changed, you push me to live on
+[00:20.88] 海よりも深い奥底から見守っている 別れた未来
+[00:31.88] 
+[00:38.84] I still love you, even though I miss you
+[00:43.68] 永久に続く悲しみの夜の中で 愛は生きる
+[00:58.57] I will be here for you, always and forever
+[01:03.39] 今もずっと願っているよ 温かいこの闇の中で
+[01:13.89] 
+[01:29.33] Nothing can separate us
+[01:34.24] No time or place too far away
+[01:39.19] Something's connecting us, much deeper than we know
+[02:04.69] 
+[01:47.37] I still love you, even though I miss you
+[01:52.22] 記憶までも褪せてゆくその中で 愛を詠う
+[02:07.08] I will be here for you, always and forever
+[02:12.02] 今もずっと想っているよ 救いなきこの光の中で
+[02:23.02] 
+[02:45.86] 悔いなど 捨てよう 心すべてで
+[02:55.60] I think of you
+[03:00.58] I think of you
+[03:07.58] 
+[03:05.83] Even if you don't know how I still treasure you
+[03:15.56] It doesn't bother me
+[03:18.06] 'Cause I decided so
+[03:27.56] 
+[03:25.32] I still love you, even though I miss you
+[03:30.30] 永久に続く悲しみの夜の中で 愛は生きる
+[03:44.83] I will be here for you, always and forever
+[03:49.82] 今もずっと願っているよ 温かいこの闇の中
+[04:05.78] 美しいこの世界の中で
+[04:10.78] 
+[04:24.03] I still love you
+[04:29.03] Even though I miss you
+```
