@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Endless Embrace",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-02-21T16:31:19.116688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Embrace",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_Endless_Embrace_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless Embrace",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/02_Endless_Embrace_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless Embrace",
+      "artist": "MYTH",
+      "has_synced": true,
+      "path": "select/03_Endless_Embrace_MYTH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless Embrace",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/04_Endless_Embrace_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "endless embrace",
+      "artist": "myth  roid",
+      "has_synced": true,
+      "path": "select/05_endless_embrace_myth_roid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless Embrace",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_Embrace_MYTH_&_ROID.txt"
+    }
+  ]
+}
